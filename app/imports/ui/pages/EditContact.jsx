@@ -15,7 +15,7 @@ import PropTypes from 'prop-types';
 import 'uniforms-bridge-simple-schema-2'; // required for Uniforms
 import { Contacts, ContactsSchema } from '../../api/contact/Contacts';
 
-/** Renders the Page for editing a single document. */
+/** Renders the Page for editing a single documenContacts.jsContacts.jst. */
 class EditContact extends React.Component {
 
   /** On successful submit, insert the data. */
