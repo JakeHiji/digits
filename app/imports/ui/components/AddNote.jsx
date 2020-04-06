@@ -1,9 +1,9 @@
 import React from 'react';
 import { Segment } from 'semantic-ui-react';
-import { AutoForm, ErrorsField, SubmitField, TextField, HiddenField } from 'uniforms-semantic';
+import { AutoForm, ErrorsField, HiddenField, SubmitField, TextField } from 'uniforms-semantic';
 import swal from 'sweetalert';
-import 'uniforms-bridge-simple-schema-2'; // required for Uniforms
 import PropTypes from 'prop-types';
+import 'uniforms-bridge-simple-schema-2'; // required for Uniforms
 import { Notes, NotesSchema } from '../../api/note/Notes';
 
 /** Renders the Page for adding a document. */
