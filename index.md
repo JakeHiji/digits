@@ -3,9 +3,13 @@ First, Install Meteor using command "meteor npm install"
 
 Once installed, run the application using command "meteor npm run start"
 
-If the application is 
+If the application is up and running, you can now access the site by visiting 
+http://localhost:3000/ 
+on your current browser
 
-<img src="doc/landing-1.png.png">
+If all of these steps were executed with out error, we can now move onto the user interface
+
+<img src="doc/landing-1.png">
 
 ## Accessing the User Interface: 
 Starting at the landing page, here we are prompted with the website details
