@@ -1,9 +1,4 @@
 {
-  "galaxy.meteor.com": {
-    "env": {
-      "MONGO_URL": "mongodb+srv://admin:PnXQvjWWY3vGXnTm@cluster0-aagew.mongodb.net/test?retryWrites=true&w=majority"
-    }
-  },
   "defaultAccounts": [
     {
       "email": "admin@foo.com",
